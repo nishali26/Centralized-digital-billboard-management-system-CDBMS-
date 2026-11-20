@@ -69,41 +69,48 @@ Replace the image paths with actual screenshots from the application.
 
 The administrative dashboard provides centralized access to billboard management, advertiser accounts, booking requests, and campaign approvals.
 
-![Admin Dashboard](docs/images/admin-dashboard.png)
+
 
 ### 3.2 Advertiser Dashboard
 
 Advertisers can access their accounts, manage advertising content, explore available billboards, and monitor their booking activities.
 
-![Advertiser Dashboard](docs/images/advertiser-dashboard.png)
+
 
 ### 3.3 Billboard Management
 
 The billboard management interface allows administrators to manage registered display locations and their associated advertising slots.
 
-![Billboard Management](docs/images/billboard-management.png)
+
 
 ### 3.4 Advertisement Booking & Scheduling
 
 The booking interface allows advertisers to select billboards, check available time slots, and submit advertising requests.
 
-![Booking Management](docs/images/booking-management.png)
+
 
 ### 3.5 Payment & Transaction Interface
 
 The payment workflow integrates Stripe Checkout to facilitate advertisement booking payments.
 
-![Payment Interface](docs/images/payment-interface.png)
+
 
 ### 3.6 Digital Billboard Display
 
 The display interface retrieves approved and currently scheduled advertisements for playback on the designated screen.
 
-![Billboard Display](docs/images/billboard-display.png)
+
 
 ### 3.7 Hardware Integration
 
 The project includes hardware-related components for connecting digital display infrastructure with the centralized management platform.
+
+![Admin Dashboard](docs/images/admin-dashboard.png)
+![Advertiser Dashboard](docs/images/advertiser-dashboard.png)
+![Billboard Management](docs/images/billboard-management.png)
+![Booking Management](docs/images/booking-management.png)
+![Payment Interface](docs/images/payment-interface.png)
+![Billboard Display](docs/images/billboard-display.png)
 
 ![Hardware Setup](docs/images/hardware-setup.png)
 
