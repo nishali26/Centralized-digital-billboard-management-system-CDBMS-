@@ -32,7 +32,7 @@ The **Centralized Digital Billboard Management System (CDBMS)** is a full-stack 
 
 The system provides a centralized environment where administrators and advertisers can manage billboard availability, upload multimedia advertisements, reserve advertising slots, process payments, approve campaigns, and control advertisement playback.
 
-I
+
 ## 🔗 2. Live Deployments & Project Resources
 
 | Service | Platform | Link |
@@ -42,7 +42,8 @@ I
 | Source Code | GitHub | [View Repository](https://github.com/nishali26/Centralized-digital-billboard-management-system-CDBMS-) |
 
 
-✨ Key Features
+
+
 🔐 Role-Based Authentication: Secure admin login to manage screens, advertisers, and active campaigns.
 
 🖥️ Multi-Screen Device Management: Register, group, and monitor individual Raspberry Pi billboard units across different locations.
@@ -63,7 +64,6 @@ I
 ## 📸 3. Application Interface & System Preview
 
 The following sections are intended to showcase the major components of the CDBMS platform.
-
 Replace the image paths with actual screenshots from the application.
 
 ### 3.1 Admin Dashboard
@@ -106,12 +106,44 @@ The display interface retrieves approved and currently scheduled advertisements 
 
 The project includes hardware-related components for connecting digital display infrastructure with the centralized management platform.
 
-![Admin Dashboard](Picture1.png)
-![Advertiser Dashboard](Picture2.png)
-![Billboard Management](Picture3.png)
-![Booking Management](Picture4.png)
-![Payment Interface](Picture7.png)
-![Billboard Display](Picture6.png)
+### 📸 System Screenshots
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="Picture1.png" alt="Admin Dashboard" width="240" height="140" />
+      <br />
+      <sub><b>Admin Dashboard</b></sub>
+    </td>
+    <td align="center">
+      <img src="Picture2.png" alt="Advertiser Dashboard" width="240" height="140" />
+      <br />
+      <sub><b>Advertiser Dashboard</b></sub>
+    </td>
+    <td align="center">
+      <img src="Picture3.png" alt="Billboard Management" width="240" height="140" />
+      <br />
+      <sub><b>Billboard Management</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="Picture4.png" alt="Booking Management" width="240" height="140" />
+      <br />
+      <sub><b>Booking Management</b></sub>
+    </td>
+    <td align="center">
+      <img src="Picture7.png" alt="Payment Interface" width="240" height="140" />
+      <br />
+      <sub><b>Payment Interface</b></sub>
+    </td>
+    <td align="center">
+      <img src="Picture6.png" alt="Billboard Display" width="240" height="140" />
+      <br />
+      <sub><b>Billboard Display</b></sub>
+    </td>
+  </tr>
+</table>
 
 
 ---
