@@ -105,14 +105,13 @@ The display interface retrieves approved and currently scheduled advertisements 
 
 The project includes hardware-related components for connecting digital display infrastructure with the centralized management platform.
 
-![Admin Dashboard](docs/images/admin-dashboard.png)
-![Advertiser Dashboard](docs/images/advertiser-dashboard.png)
-![Billboard Management](docs/images/billboard-management.png)
-![Booking Management](docs/images/booking-management.png)
-![Payment Interface](docs/images/payment-interface.png)
-![Billboard Display](docs/images/billboard-display.png)
+![Admin Dashboard](Picture1.png)
+![Advertiser Dashboard](Picture2.png)
+![Billboard Management](Picture3.png)
+![Booking Management](Picture4.png)
+![Payment Interface](Picture7.png)
+![Billboard Display](Picture6.png)
 
-![Hardware Setup](docs/images/hardware-setup.png)
 
 ---
 
