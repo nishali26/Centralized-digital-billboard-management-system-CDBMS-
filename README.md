@@ -32,23 +32,7 @@ The **Centralized Digital Billboard Management System (CDBMS)** is a full-stack 
 
 The system provides a centralized environment where administrators and advertisers can manage billboard availability, upload multimedia advertisements, reserve advertising slots, process payments, approve campaigns, and control advertisement playback.
 
-Instead of relying on traditional manual advertisement updates, CDBMS introduces a centralized web-based solution that connects the management dashboard, cloud backend, database, and physical display infrastructure.
-
-The platform combines modern web technologies with hardware-assisted display functionality to provide an integrated digital advertising workflow.
-
-### Core Objectives
-
-- Centralize the management of multiple digital billboards.
-- Simplify billboard registration and availability management.
-- Allow advertisers to upload and manage promotional content.
-- Automate advertisement booking and scheduling.
-- Introduce secure online payment processing.
-- Provide administrative approval and campaign management.
-- Connect digital display infrastructure with the centralized backend.
-- Reduce manual intervention in advertisement management and playback.
-
----
-
+I
 ## 🔗 2. Live Deployments & Project Resources
 
 | Service | Platform | Link |
@@ -56,6 +40,23 @@ The platform combines modern web technologies with hardware-assisted display fun
 | Web Application | Vercel | [Open CDBMS Dashboard](https://bilboard-project.vercel.app/) |
 | Backend API | Render | [Backend Server](https://cdbms-backend-w86i.onrender.com/) |
 | Source Code | GitHub | [View Repository](https://github.com/nishali26/Centralized-digital-billboard-management-system-CDBMS-) |
+
+
+✨ Key Features
+🔐 Role-Based Authentication: Secure admin login to manage screens, advertisers, and active campaigns.
+
+🖥️ Multi-Screen Device Management: Register, group, and monitor individual Raspberry Pi billboard units across different locations.
+
+🎞️ Rich Media Upload & Playlist Builder: Support for high-resolution promotional images and video loops with customizable display order and duration.
+
+⏰ Smart Ad Scheduling: Schedule campaigns by date range and time window so relevant ads play automatically at peak hours.
+
+📡 Real-Time Device Heartbeat & Status: Track online/offline status, last sync timestamp, and active playlist per Raspberry Pi node.
+
+💾 Offline Playback Resilience: Cached media on the Raspberry Pi ensures continuous playback even during temporary internet drops.
+
+---
+
 
 ---
 
